@@ -6,7 +6,7 @@ The DSA problems I solved
 ### Questions
 
 1. Two sum - https://leetcode.com/problems/two-sum/description/
-Majority element in an array - https://leetcode.com/problems/majority-element
+168. Majority element in an array - https://leetcode.com/problems/majority-element
 
 
 

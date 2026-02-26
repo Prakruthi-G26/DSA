@@ -21,3 +21,6 @@ class Solution {
         return max;
     }
 }
+
+//Time complexity O(n)
+//space complexity O(n)

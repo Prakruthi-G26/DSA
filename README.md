@@ -5,10 +5,10 @@ The DSA problems I solved
 ## Arrays
 
 
-# ## Questions
+## Questions
 
 1. Two sum - https://leetcode.com/problems/two-sum/description/
-3. Length if longest substring without repeating characters 
+3. Length of longest substring without repeating characters 
 168. Majority element in an array - https://leetcode.com/problems/majority-element
 
 

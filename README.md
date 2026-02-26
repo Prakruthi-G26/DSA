@@ -3,7 +3,9 @@ The DSA problems I solved
 
 
 ## Arrays
-### Questions
+
+
+# ## Questions
 
 1. Two sum - https://leetcode.com/problems/two-sum/description/
 3. Length if longest substring without repeating characters 

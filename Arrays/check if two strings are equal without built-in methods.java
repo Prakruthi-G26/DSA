@@ -11,3 +11,6 @@ public class StringEquality {
         }
     }
 }
+
+// time complexity
+// space complexity 

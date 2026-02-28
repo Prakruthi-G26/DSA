@@ -1,5 +1,4 @@
-class solution:
-public class StringEquality {
+class solution{
     public static void main(String[] args) {
         String s1 = "TCS";
         String s2 = "TCS";

@@ -8,7 +8,7 @@ The DSA problems I solved
 ## Questions
 
 1. Two sum - https://leetcode.com/problems/two-sum/description/
-3. Length of longest substring without repeating characters
+3. Length of longest substring without repeating characters - https://leetcode.com/problems/longest-substring-without-repeating-characters
 9. Palindrome number - https://leetcode.com/problems/palindrome-number
 168. Majority element in an array - https://leetcode.com/problems/majority-element
 

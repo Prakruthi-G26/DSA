@@ -9,3 +9,6 @@ class Solution {
         return original == reversed;
     }
 }
+
+//Time complexity O(log n)
+//space complexity O(1)

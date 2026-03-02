@@ -28,3 +28,8 @@ class Solution {
         return right - left - 1;
     }
 }
+
+
+
+// Time Complexity: O(n²)
+// Space Complexity: O(1)

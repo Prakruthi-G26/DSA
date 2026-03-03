@@ -32,7 +32,7 @@
 //time complexity - O((n+m)^2)
 //space complexity - O(n+m)
 
-
+!---------------------------------------------------------optimal-------------------------------------------------------------------!
 //using stringBuilder class - optimised approach
 class Solution {
     public String mergeAlternately(String word1, String word2) {
@@ -59,3 +59,6 @@ class Solution {
         return word.toString();
     }
 }
+
+//time complexity - O(n+m)
+//space complexity - O(n+m)

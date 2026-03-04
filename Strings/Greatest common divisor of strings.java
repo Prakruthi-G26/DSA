@@ -20,3 +20,7 @@ class Solution {
         return gcd(b, a % b);
     }
 }
+
+
+// Time Complexity: O(n+m)
+// Space Complexity: O(1)

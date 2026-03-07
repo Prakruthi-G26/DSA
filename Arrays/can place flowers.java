@@ -16,3 +16,6 @@ class Solution {
         return false;
     }
 }
+
+//Time complexity O(n)
+//space complexity O(1)

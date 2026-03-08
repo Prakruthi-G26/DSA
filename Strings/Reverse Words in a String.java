@@ -8,3 +8,6 @@ class Solution {
         return sb.toString().strip();
     }
 }
+
+// Time Complexity: O(n)
+// Space Complexity: O(n)

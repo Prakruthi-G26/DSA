@@ -3,20 +3,21 @@ class Solution {
         int write = 0;
         int i = 0;
         int count = 0;
-        while(i < chars.length){
-            j = i;
+        int n = chars.length;
+        while(i < n){
+            int j = i;
             while(j < n && chars[j] == chars[i]){
                 j++;
             }
-            count = j - ;
-        }
-        chars[write++] = chars[i]
-        if count > 1{
-            for c in String.valueOf(count).toCharArray(){
-                chars[write++] = c;
+            count = j - i;
+            chars[write++] = chars[i];
+            if(count > 1){
+                for (char c : String.valueOf(count).toCharArray()){
+                    chars[write++] = c;
+                }
             }
+            i = j;
         }
-        i = j;
+        return write;
     }
-    return chars.length;
 }

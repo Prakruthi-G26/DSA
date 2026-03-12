@@ -21,3 +21,6 @@ class Solution {
         return write;
     }
 }
+
+// Time Complexity: O(n)
+// Space Complexity: O(1)

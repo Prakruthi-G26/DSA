@@ -21,3 +21,6 @@ class Solution {
         return count;
     }
 }
+
+//time complexity - O(NlogN)
+//space complexity - O(1)

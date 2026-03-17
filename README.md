@@ -12,3 +12,10 @@ Solving Data Structures & Algorithms problems daily to improve problem-solving a
 * Sliding window
 * Prefix sum
 * Prefix product 
+
+### Languages Used
+* Java
+
+### Folder structure 
+/DSA 
+|_/

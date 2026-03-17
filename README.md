@@ -2,7 +2,13 @@
 
 Solving Data Structures & Algorithms problems daily to improve problem-solving and coding skills.
 
-## Topics Covered
+### Topics Covered
 * Arrays
-*Linked Lists
-*Strings
+* Linked Lists
+* Strings
+
+### Patterns 
+* Two pointers
+* Sliding window
+* Prefix sum
+* Prefix product 

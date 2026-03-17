@@ -17,5 +17,10 @@ Solving Data Structures & Algorithms problems daily to improve problem-solving a
 * Java
 
 ### Folder structure 
-/DSA 
-|_/
+/Arrays 
+/Strings
+
+### Goals
+* Solve atleast 1 problem daily
+* Master core DSA topics
+* Prepare for coding interviews

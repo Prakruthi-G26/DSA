@@ -18,6 +18,7 @@ Solving Data Structures & Algorithms problems daily to improve problem-solving a
 
 ### Folder structure 
 /Arrays 
+/Binary
 /Strings
 
 ### Goals

@@ -13,6 +13,8 @@ Solving Data Structures & Algorithms problems daily to improve problem-solving a
 * Prefix sum
 * Prefix product 
 
+### Algorithm 
+* Greedy algorithm 
 ### Languages Used
 * Java
 

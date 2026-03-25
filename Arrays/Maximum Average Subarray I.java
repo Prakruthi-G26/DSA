@@ -14,4 +14,6 @@ class Solution {
         return maxSum / k;
     }
 }
-//
+
+//Time complexity: O(n)
+//Space complexity: O(1)
